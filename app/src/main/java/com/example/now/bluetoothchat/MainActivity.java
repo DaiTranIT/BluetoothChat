@@ -22,6 +22,7 @@ public class MainActivity extends SampleActivityBase {
 //            Fragm
         }
         // hello dai
+        // Hello KhongChoDoi
 
     }
 }
