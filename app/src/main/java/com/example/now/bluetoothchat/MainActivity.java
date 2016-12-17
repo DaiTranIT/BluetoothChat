@@ -21,7 +21,7 @@ public class MainActivity extends SampleActivityBase {
         if(savedInstanceState == null){
 //            Fragm
         }
-
+        // hello dai
 
     }
 }
